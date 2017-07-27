@@ -1,0 +1,19 @@
+{
+    "name": "com.coolappz.taxiexpress",
+    "version": "1.0.0",
+    "displayName": "taxiExpress",
+    "cordova": {
+        "platforms": [
+            "browser"
+        ],
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-browsersync": {}
+        }
+    },
+    "dependencies": {
+        "cordova-browser": "^4.1.0",
+        "cordova-plugin-browsersync": "^0.1.6",
+        "cordova-plugin-whitelist": "1"
+    }
+}
